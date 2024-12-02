@@ -20,7 +20,7 @@ Choose the appropriate style and color scheme.
 Validate the layout in various browsers.
 
 ## Step 6:
-Validate the HTML code.
+Validate the HTML code.vvvvvvvvvvv
 
 ## Step 7:
 Publish the website in the given URL.
